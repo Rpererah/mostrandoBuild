@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mostrandoBuild/static/css/main.e6c13ad2.css",
+    "main.js": "/mostrandoBuild/static/js/main.8774102e.js",
+    "static/js/787.8575fb50.chunk.js": "/mostrandoBuild/static/js/787.8575fb50.chunk.js",
+    "index.html": "/mostrandoBuild/index.html",
+    "main.e6c13ad2.css.map": "/mostrandoBuild/static/css/main.e6c13ad2.css.map",
+    "main.8774102e.js.map": "/mostrandoBuild/static/js/main.8774102e.js.map",
+    "787.8575fb50.chunk.js.map": "/mostrandoBuild/static/js/787.8575fb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8774102e.js"
+  ]
+}
